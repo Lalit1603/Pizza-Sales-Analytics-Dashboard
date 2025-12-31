@@ -59,15 +59,16 @@ The dashboards help business owners make **data-driven decisions** related to pr
 ## 📷 Dashboard Preview
 
 ### Power BI – Home Dashboard
-![Home Dashboard](images/home_powerBI.png)
+![Home Dashboard](Images/home_powerBI.png)
 
 ### Best & Worst Sellers Analysis
-![Best Worst Dashboard](images/best_worstPowerBI.png)
+![Best Worst Dashboard](Images/best_worstPowerBI.png)
 
 ### Excel Dashboard
-![Excel Dashboard](images/exceldashboard.png)
+![Excel Dashboard](Images/exceldashboard.png)
 
 ---
 
 ## 📂 Project Structure
+
 
